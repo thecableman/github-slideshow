@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to our second slide, gullwing!!"
 ---
-hello, I am the cableman
+Hi, Welcome, I am Just Learining
 use right arrow to go back!
